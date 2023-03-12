@@ -5,7 +5,7 @@
 > Getting started and documentation
 
 [GitHub](https://github.com/akorax/docs)
-[Get Started](#Scripting)
+[Get Started](#Basics)
 
 <!-- background image -->
 
