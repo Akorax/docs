@@ -4,42 +4,36 @@
 <summary><b>Getting Started</b></summary>
 
 - [Basics](README)
-- [Server Setup](_pages/setup0)
- - [Single PC](_pages/setup1)
- - [LAN](_pages/setup2)
- - [WAN](_pages/setup3)
+- [Server Setup](_pages/Setup0)
+ - [Single PC](_pages/Setup1)
+ - [LAN](_pages/Setup2)
+ - [WAN](_pages/Setup3)
 	
 </details>
 
 <details open>
 <summary><b>General</b></summary>
 
-- [Events](_pages/Events)
-- [Event Chains](_pages/EventChains)
-- [Comments](_pages/Comments)
-- [Conditions](_pages/Conditions)
-- [Objectives](_pages/Objectives)
-- [Variables](_pages/Variables)
- - [Macros](_pages/Macros)
- - [Arrays](_pages/Arrays)
-- [Triggers](_pages/Triggers)
+- [Menu](_pages/Variables)
+ - [Submenu](_pages/Macros)
+ - [Submenu2](_pages/Arrays)
+- [Menu2](_pages/Triggers)
 
 </details>
 
 <details open>
-<summary><b>Classes</b></summary>
+<summary><b>Placeholder</b></summary>
 
-- [General Information](_pages/Classes)
-	- [Buildings](_pages/ClassesBuildings)
-	- [Miners](_pages/ClassesMiners)
-	- [Vehicles](_pages/ClassesVehicles)
+- [Placeholder](_pages/Classes)
+	- [1](_pages/ClassesBuildings)
+	- [2](_pages/ClassesMiners)
+	- [3](_pages/ClassesVehicles)
 
 </details>
 
 <details open>
 <summary><b>Other</b></summary>
 
-- [Level Data File](_pages/LevelDataFile)
-- [Scripting Examples](_pages/ScriptingExamples)
+- [Links](_pages/Links)
 
 </details>
