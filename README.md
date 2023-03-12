@@ -1,4 +1,4 @@
-If you see this page as a github file and not a website press here to get to the correct page.
+If you see this page as a github file and not a website press [here](https://akorax.github.io/docs/#/) to get to the correct page.
 
 # Basics
 
