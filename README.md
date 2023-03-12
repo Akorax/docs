@@ -1,4 +1,4 @@
-If you see this page on github with a white background, press [here](https://manicminers.github.io/docs/#/) to get to the correct page.
+If you see this page on github with a white background, press [here](https://akorax.github.io/docs/#/) to get to the correct page.
 
 # Scripting
 
