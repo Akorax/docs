@@ -3,9 +3,12 @@
 <details open>
 <summary><b>Getting Started</b></summary>
 
-- [Scripting](README)
-- [Scripting Structure](_pages/ScriptingStructure)
-
+- [Basics](README)
+- [Setup](_pages/setup0)
+ - [Single PC](_pages/setup1)
+ - [LAN](_pages/setup2)
+ - [WAN](_pages/setup3)
+	
 </details>
 
 <details open>
