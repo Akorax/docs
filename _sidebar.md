@@ -8,7 +8,7 @@
  - [Single PC](_pages/Setup1)
  - [LAN](_pages/Setup2)
  - [WAN](_pages/Setup3)
--[Client Setup](_pages/ClientSetup)
+- [Client Setup](_pages/ClientSetup)
 	
 </details>
 <details open>
