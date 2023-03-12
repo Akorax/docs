@@ -28,7 +28,7 @@ First you encounter a grey colored menu where you can choose to install a certai
 
 After selection of game version you’ll meet a colored menu with information of which game version that’s currently being managed. At the bottom of this menu you’ll also find information useful for troubleshooting, namely: **Core version**, **Database version**, **Webserver version**.
 
-![](../_media/045c6f39c7f15eda134ba7d377567c44.png)![](_media/e9809bbdf451a960c04b8d43ddd409de.png)
+![](../_media/045c6f39c7f15eda134ba7d377567c44.png)![](../_media/e9809bbdf451a960c04b8d43ddd409de.png)
 
 ## Beta vs release
 
