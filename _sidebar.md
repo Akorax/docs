@@ -4,7 +4,7 @@
 <summary><b>Getting Started</b></summary>
 
 - [Basics](README)
-- [Setup](_pages/setup0)
+- [Server Setup](_pages/setup0)
  - [Single PC](_pages/setup1)
  - [LAN](_pages/setup2)
  - [WAN](_pages/setup3)
