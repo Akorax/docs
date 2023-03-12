@@ -7,7 +7,7 @@ How does a WoW server work?
 
 -   A WoW server generally use four applications; a **realm** server, **world** server, **database** server and optionally a **web** server.
 
-![Apps](_media/apps.png "Apps overview")
+![Apps](_media/Apps.png "Apps overview")
 
 -   The **realm** server is responsible for handling user connections to the world server.
     -   The **world** server is the brain that’s making every in-game event happen.
