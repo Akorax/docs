@@ -14,7 +14,7 @@ If you see this page as a github file and not a website press here to get to the
 
 -   A WoW server generally use four applications; a **realm** server, **world** server, **database** server and optionally a **web** server.
 
-![](media/41998cd7cb65196c56d62bed52c1fa13.png)
+![Apps](_media/41998cd7cb65196c56d62bed52c1fa13.png "General server apps")
 
 -   The **realm** server is responsible for handling user connections to the world server.
 -   The **world** server is the brain that’s making every in-game event happen.
