@@ -1,10 +1,10 @@
-![logo](_media/EditorScriptingMenu.png)
+![logo](_media/MainPageImage.png)
 
-# Manic Miners Scripting
+# Single Player Repack
 
-> How Rock Raiders really talk!
+> Getting started and documentation
 
-[GitHub](https://github.com/ManicMiners/docs)
+[GitHub](https://github.com/akorax/docs)
 [Get Started](#Scripting)
 
 <!-- background image -->
