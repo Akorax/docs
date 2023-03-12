@@ -1,28 +1,21 @@
-If you see this page on github with a white background, press [here](https://akorax.github.io/docs/#/) to get to the correct page.
+What is a private WoW server?
 
-# Scripting
+-   A private WoW server is a few applications or programs that work together in order to enable you to run World of Warcraft without the need for a paid subscription or internet connection if you want.
+-   Server-content is produced and managed ideally which means it can be lacking, missing and buggy in some cases. You can help to make it work better but more on that later.
 
-Scripting is programmed level-specific behaviour that is currently defined by inputting command lines in the level files' script section. It has **three main components:**
+![](media/a8dd29d43040d5dac2e6a511f35e9e3c.png)
 
-* **Variables**
-* **Triggers**
-* **Events**
+How does a WoW server work?
 
-**Variables** are used to keep track of what's happening in the level. **Triggers** check for when something specific occurs in the level. **Events** are executed to alter the level or player in some way.
+-   A WoW server generally use four applications; a **realm** server, **world** server, **database** server and optionally a **web** server.
 
-?> The game provide a handy log that tells you exactly what has occured and if any errors happen.
+![](media/41998cd7cb65196c56d62bed52c1fa13.png)
 
-![ShowLogButton_Screenshot](_media/EditorShowLog.png "Show Log")
+-   The **realm** server is responsible for handling user connections to the world server.
+    -   The **world** server is the brain that’s making every in-game event happen.
+    -   The **database** server is the memory or save-file for the world server. It stores information such as your characters, items, creature loot tables and spawn points.
+    -   The **web** server hosts a website where players can get an overview of the other three servers as well as other nice-to-know information.
 
+\--System requirements
 
-<img src="_media/EditorScriptingMenu.png" alt="Scripting Button" width="100" style="float:left; margin: 0.2em"/>
-To assist you with scripting the Level Editor can display the Row, Column and Tile ID of the tile beneath the mouse cursor. This function is activated when you press the Script Interface button in the Level Editor.
-
-<p style="clear:both; float:none;" />
-
-!> If you notice something that's incorrect or require an update, create a issue on **[Github](https://github.com/ManicMiners/docs/issues)** or come over to the **#Scripting** channel over on **[Discord](https://discord.gg/85k8JHz)**.
-
-## Links
- - [Manic Miners Discord](https://discord.gg/85k8JHz)
- - [Manic Miners Homepage](https://manicminers.baraklava.com/)
- - [Manic Miners Wiki](https://manicminers.fandom.com/)
+![C:\\Users\\Ernst\\Pictures\\Nätverk 1.png](media/ee517b15e6482e293e392fdf70342b4c.png)
