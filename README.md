@@ -2,11 +2,11 @@ If you see this page as a github file and not a website press [here](https://ako
 
 # Basics
 
-*What is a private WoW server?*
+**What is a private WoW server?**
 
 -   A private WoW server is a few applications or programs that work together in order to enable you to run World of Warcraft without the need for a paid subscription or internet connection if you want.
 
-*Will I get a good experience playing on a private server?*
+**Will I get a good experience playing on a private server?**
 
 -   Generally yes. Server-content is produced and managed ideally which means it can be lacking, missing and buggy in some cases. You can help to make it work better but more on that later.
 
