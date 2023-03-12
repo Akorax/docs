@@ -5,7 +5,6 @@
 -   [SPP Website](https://singleplayerproject.com/viewtopic.php?f=4&t=373) (general information)
 -   [Github SPP Classics Collection](https://github.com/celguar/spp-classics-cmangos/releases) (software download)
 -   [Github Mangosbots](http://ike3.github.io/mangosbot-docs/) (info and guide to bots by ike3)
--   Github
 -   [Wowdl.net](https://wowdl.net/) (for client downloads)
 -   [HermesProxy](https://github.com/WowLegacyCore/HermesProxy) (required for Classic Client, 1.14 etc.)
 -   [CMaNGOS](https://cmangos.net/) (info)
