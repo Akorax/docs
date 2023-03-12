@@ -12,15 +12,6 @@
 	
 </details>
 <details open>
-<summary><b>General</b></summary>
-	
-- [Menu](_pages/Variables)
- - [Submenu](_pages/Macros)
- - [Submenu2](_pages/Arrays)
-- [Menu2](_pages/Triggers)
-	
-</details>
-<details open>
 <summary><b>Troubleshooting</b></summary>
 	
 - [Common errors](_pages/CommonErrors)
