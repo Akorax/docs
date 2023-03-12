@@ -14,7 +14,7 @@ When you got your hardware you’ll need the software (the four apps) which you 
 
 Once you have installed the repack you’ll be facing three start-scripts which does what they say in the title.
 
-![](_media/820befcb08632edfda4211577a904ade.png)
+![](../_media/820befcb08632edfda4211577a904ade.png)
 
 -   **Server_fix.bat** can fix some errors you may encounter, the SPP
 -   **Server_Start.bat** will start the *SPP Classics Collection-menu*
@@ -28,7 +28,7 @@ First you encounter a grey colored menu where you can choose to install a certai
 
 After selection of game version you’ll meet a colored menu with information of which game version that’s currently being managed. At the bottom of this menu you’ll also find information useful for troubleshooting, namely: **Core version**, **Database version**, **Webserver version**.
 
-![](_media/045c6f39c7f15eda134ba7d377567c44.png)![](_media/e9809bbdf451a960c04b8d43ddd409de.png)
+![](../_media/045c6f39c7f15eda134ba7d377567c44.png)![](_media/e9809bbdf451a960c04b8d43ddd409de.png)
 
 ## Beta vs release
 
@@ -38,4 +38,4 @@ Releases are the more official versions of the repack and while being generally 
 
 Easiest way of keeping track on when you have to update your release version is joining the **Mangosbots discord** (of which I don’t have a permalink right now so better ask for a link in SPP-discord).
 
-![](_media/a0da93389eac7191079e18d3f2a00c87.png)
+![](../_media/a0da93389eac7191079e18d3f2a00c87.png)
