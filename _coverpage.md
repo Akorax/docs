@@ -1,4 +1,4 @@
-![logo](_media/MainPageImage.png)
+![logo](https://i.ibb.co/47JdJMy/logonew2.png)
 
 # Single Player Repack
 
