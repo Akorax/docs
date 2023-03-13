@@ -8,7 +8,7 @@ A private server can be run on your own computer, a computer on your local netwo
 
 ## Software
 
-When you got your hardware you’ll need the software (the four apps) which you can find in the links section. **Installation instructions** are provided on the target website. You’ll be downloading a [CMaNGOS](https://cmangos.net/)-server which has a few tweaks to it and a simple yet extensive boot-menu. The package or *repack* includes WoW Vanilla, TBC and WotLK. See a list of features [here](https://singleplayerproject.com/viewtopic.php?f=4&t=373).
+When you got your hardware you’ll need the software (the four apps) which you can find in the [links](../_pages/Links) section. **Installation instructions** are provided on the target website. You’ll be downloading a [CMaNGOS](https://cmangos.net/)-server which has a few tweaks to it and a simple yet extensive boot-menu. The package or *repack* includes WoW Vanilla, TBC and WotLK. See a list of features [here](https://singleplayerproject.com/viewtopic.php?f=4&t=373).
 
 ## Starting the server
 
