@@ -21,4 +21,4 @@ If you see this page as a github file and not a website press [here](https://ako
 -   The **database** server is the memory or save-file for the world server. It stores information such as your characters, items, creature loot tables and spawn points.
 -   The **web** server hosts a website where players can get an overview of the other three servers as well as other nice-to-know information.
 
-If you feel you have a grasp over the basics, head over to [server setup](_pages/setup0.md) and install your server.
+If you feel you have a grasp over the basics, head over to [server setup](_pages/Setup0.md) and install your server.
