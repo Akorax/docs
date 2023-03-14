@@ -5,7 +5,6 @@
 
 - [Basics](README)
 - [Server Setup](_pages/Setup0)
- - [Single PC](_pages/Setup1)
  - [LAN](_pages/Setup2)
  - [WAN](_pages/Setup3)
 - [Client Setup](_pages/ClientSetup)
