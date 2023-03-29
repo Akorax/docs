@@ -13,9 +13,9 @@
 <details open>
 <summary><b>Troubleshooting</b></summary>
 	
-- [Common errors](_pages/CommonErrors)
-- [Error reporting](_pages/ErrorReporting)
-- [Error messages](_pages/ErrorMessages)
+- [Common errors](_pages/T_CommonErrors)
+- [Error reporting](_pages/T_ErrorReporting)
+- [Error messages](_pages/T_ErrorMessages)
 	
 </details>
 <details open>
