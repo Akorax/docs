@@ -19,30 +19,29 @@ If you intend to invite your friends or family to the server you might want to t
 
 ## Starting the server
 
-Once you have installed the repack you’ll be facing three start-scripts which does what they say in the title.
+Once you have installed the repack you’ll be facing three start-scripts.
 
 ![](../_media/820befcb08632edfda4211577a904ade.png)
 
 -   **Server_fix.bat** can fix some errors you may encounter, the SPP
 -   **Server_Start.bat** will start the *SPP Classics Collection-menu*
--   **Server_update.bat** will update the software if there’s a new release available on [Github](https://github.com/celguar/spp-classics-cmangos/releases). (read about releases and beta versions here)
+-   **Server_update.bat** will automatically download and update the software if there’s a new release available on [Github](https://github.com/celguar/spp-classics-cmangos/releases).
 
 ## The SPP Classics-menu
 
-The SPP Classics Collection-menu is what you’ll be using to install, run and shutdown the server software. You navigate the menu with numbers or letters.
+The SPP Classics Collection-menu is what you’ll be using to install, run and shutdown the server. You navigate the menu by writing numbers or letters.
 
-First you encounter a grey colored menu where you can choose to install a certain game version to host for your players, the webserver can also be controlled from this menu.
-
-After selection of game version you’ll meet a colored menu with information of which game version that’s currently being managed. At the bottom of this menu you’ll also find information useful for troubleshooting, namely: **Core version**, **Database version**, **Webserver version**.
+1. First you'll face a grey colored menu where you choose the game version you want to host, the webserver can also be controlled from this menu.
+2. After selection of game version you’ll face a second menu with more details and control over that specific version. Note that at the bottom of this menu is **Core version**, **Database version** and **Webserver version** which is useful info for troubleshooting.
 
 ![](../_media/045c6f39c7f15eda134ba7d377567c44.png)![](../_media/e9809bbdf451a960c04b8d43ddd409de.png)
 
 ## Beta vs release
 
-When you have the colored menu open (ie. Vanilla) but without having the server app running you may switch to a beta build through the **Beta Build Menu**.
+**Beta Build Menu** can be reached from the second menu. There you can activate the *beta build* which gernerally contains more bugfixes than release but may also be less stable at times. Note that this menu only works if the server isn't running.
 
-Releases are the more official versions of the repack and while being generally stable they are few and far between. The beta versions see more frequent updates but can run into unexpected issues that may for example cause the server to shut down itself. I recommend using the beta as the most annoying bugs are fixed fairly quickly but you do **have to switch back to release version every now and then** to get the core updates.
+**Releases** are the more official versions of the repack and they're generally stable. The beta versions see more frequent updates but can run into unexpected issues that may for example cause the server to shut down itself. I recommend using the beta as the most annoying bugs are fixed fairly quickly but you do **have to switch back to release version every now and then** to get the core updates.
 
-Easiest way of keeping track on when you have to update your release version is joining the **Mangosbots discord** (of which I don’t have a permalink right now so better ask for a link in SPP-discord).
+The easiest way of keeping track on when you have to update your release version is joining the **Mangosbots discord** (of which I don’t have a permalink right now so better ask for a link in SPP-discord).
 
 ![](../_media/a0da93389eac7191079e18d3f2a00c87.png)
