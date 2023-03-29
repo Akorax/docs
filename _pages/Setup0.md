@@ -1,14 +1,19 @@
 # Server setup
 
-In this section we’ll talk about what you need to run your own server and we assume you got a grasp over basic knowledge like what a router is and hardware components such as CPU and RAM.
+In this section we’ll talk about what you need to run your own server and we assume you already got basic knowledge of computer and network hardware. A private server can be run on your own computer, a computer on your local network or on a remote computer.
 
 ## System requirements
 
-A private server can be run on your own computer, a computer on your local network or on a remote computer. I (the author) haven’t found any hard specifications but servers will run alright even with a 10 year old CPU. RAM however will need to be proportional to your player count (or bot count). As a start I recommend no less than 8GB memory and a intel i3 4th gen CPU or better. (But you can definitely run it with worse hardware)
+I (the author) haven’t found any hard specifications but servers will run alright even with a 10 year old CPU. RAM however will need to be proportional to your player count (or bot count). I personally recommend:
+-   RAM: 16GB
+-   CPU: Intel i3 4th gen
+-   GPU: Noone needed for the server
+-   HDD: 50 GB of free space*
+*Space is assumed based on my current install which contains vanilla, TBC and WotLK at the same time.*
 
 ## Software
 
-When you got your hardware you’ll need the software (the four apps) which you can find in the [links](.._pages/Links) section. **Installation instructions** are provided on the target website. You’ll be downloading a [CMaNGOS](https://cmangos.net/)-server which has a few tweaks to it and a simple yet extensive boot-menu. The package or *repack* includes WoW Vanilla, TBC and WotLK. See a list of features [here](https://singleplayerproject.com/viewtopic.php?f=4&t=373).
+You can find links to the software in the [links](.._pages/Links) section. **Installation instructions** are provided on the target website. You’ll be downloading a [CMaNGOS](https://cmangos.net/)-server which has a few tweaks to it and a simple yet extensive boot-menu. The package or *repack* will let you host WoW Vanilla, TBC or WotLK. See a list of features [here](https://singleplayerproject.com/viewtopic.php?f=4&t=373).
 
 If you intend to invite your friends or family to the server you might want to take a look at [LAN](.._pages/Setup2) or [WAN](.._pages/Setup3) setup.
 
