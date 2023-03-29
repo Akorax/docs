@@ -4,9 +4,9 @@ In this section we’ll talk about what you need to run your own server and we a
 
 ## System requirements
 
-I (the author) haven’t found any hard specifications but servers will run alright even with a 10 year old CPU. RAM however will need to be proportional to your player count (or bot count). I personally recommend:
+I (the author) haven’t found any hard specifications but servers will run alright even with a 10 year old CPU. RAM however will need to be proportional to your player count (or bot count). For this pack I personally recommend no less than:
 -   RAM: 16GB
--   CPU: Intel i3 4th gen
+-   CPU: Intel core 4th gen
 -   GPU: Noone needed for the server
 -   HDD: 50 GB of free space*
 *Space is assumed based on my current install which contains vanilla, TBC and WotLK at the same time.*
