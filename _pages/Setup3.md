@@ -21,6 +21,6 @@ The server also need to know the external IP to which clients are connecting to.
 
 4. Find the realmlist table and edit the data (note that you need to edit the correct field in the correct tab).
 
-![Login](../_media/HeidiSQL02.PNG)
+![Edit Database](../_media/HeidiSQL02.png)
 
-5. All done! Don't forget to set up the client(s) with the right realmlist.wtf in ![Client Setup](.._pages/ClientSetup) 
+5. All done! Don't forget to set up the client(s) with the right realmlist.wtf in [Client Setup](.._pages/ClientSetup) 
