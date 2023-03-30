@@ -9,6 +9,7 @@ I (the author) haven’t found any hard specifications but servers will run alri
 -   CPU: Intel core 4th gen
 -   GPU: Noone needed for the server
 -   HDD: 50 GB of free space*
+
 *Space is assumed based on my current install which contains vanilla, TBC and WotLK at the same time.*
 
 ## Software
