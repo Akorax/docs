@@ -5,8 +5,8 @@
 
 - [Basics](README)
 - [Server Setup](_pages/Setup0)
- - [LAN](_pages/Setup2)
- - [WAN](_pages/Setup3)
+ - [Local play](_pages/Setup2)
+ - [Remote play](_pages/Setup3)
 - [Client Setup](_pages/ClientSetup)
 	
 </details>
