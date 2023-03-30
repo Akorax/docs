@@ -9,7 +9,7 @@ The client on LAN 1 need to find the server on LAN 2. To make this happen you ne
 ![Port_forwarding](../_media/portforwarding.png)
 
 ## Database
-The server also need to know the external IP to which clients are connecting to. For this you have to edit the database. Use a SQL-Editor like HeidiSQL to do this. (See [links](../_pages/Links))
+The server also need to know the external IP to which clients are connecting to. For this you have to edit the database. Use a SQL-Editor like HeidiSQL to do this. (See [links](.._pages/Links))
 
 1. Start the WoW-server script and go to the second colored menu (i.e WotLK menu).
 2. Start HeidiSQL and log in.
@@ -23,4 +23,4 @@ The server also need to know the external IP to which clients are connecting to.
 
 ![Login](../_media/HeidiSQL02.PNG)
 
-5. All done! Don't forget to set up the client(s) with the right realmlist.wtf in ![Client Setup](../_pages/ClientSetup) 
+5. All done! Don't forget to set up the client(s) with the right realmlist.wtf in ![Client Setup](.._pages/ClientSetup) 
