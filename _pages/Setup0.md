@@ -14,9 +14,9 @@ I (the author) haven’t found any hard specifications but servers will run alri
 
 ## Software
 
-You can find links to the software in the [links](.._pages/Links) section. **Installation instructions** are provided on the target website. You’ll be downloading a [CMaNGOS](https://cmangos.net/)-server which has a few tweaks to it and a simple yet extensive boot-menu. The package or *repack* will let you host WoW Vanilla, TBC or WotLK. See a list of features [here](https://singleplayerproject.com/viewtopic.php?f=4&t=373).
+You can find links to the software in the [links](Links) section. **Installation instructions** are provided on the target website. You’ll be downloading a [CMaNGOS](https://cmangos.net/)-server which has a few tweaks to it and a simple yet extensive boot-menu. The package or *repack* will let you host WoW Vanilla, TBC or WotLK. See a list of features [here](https://singleplayerproject.com/viewtopic.php?f=4&t=373).
 
-If you intend to invite your friends or family to the server you might want to take a look at [LAN](.._pages/Setup2) or [WAN](.._pages/Setup3) setup.
+If you intend to invite your friends or family to the server you might want to take a look at [Local Setup](Setup2) or [Remote Setup](Setup3).
 
 ## Starting the server
 
