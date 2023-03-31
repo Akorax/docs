@@ -1,27 +1,35 @@
 # Links
 
-## Web
+## Information
 
--   [SPP Website](https://singleplayerproject.com/viewtopic.php?f=4&t=373) (general information)
--   [Github SPP Classics Collection](https://github.com/celguar/spp-classics-cmangos/releases) (software download)
--   [Github Mangosbots](http://ike3.github.io/mangosbot-docs/) (info and guide to bots by ike3)
--   [CMaNGOS wiki bots](https://github.com/cmangos/issues/wiki/Guide-to-use-Playerbot) (bot commands on the CMaNGOS wiki)
--   [Wowdl.net](https://wowdl.net/) (for client downloads)
--   [HermesProxy](https://github.com/WowLegacyCore/HermesProxy) (required for Classic Client, 1.14 etc.)
--   [CMaNGOS](https://cmangos.net/) (info)
+|Link|Description|
+|---|---|
+|[SPP Website](https://singleplayerproject.com/viewtopic.php?f=4&t=373)                       |Server repack information|
+|[CMaNGOS](https://cmangos.net/)                                                              |Server core and backend info|
+|[Github Mangosbots](http://ike3.github.io/mangosbot-docs/)                                   |Info and guide to bots by ike3|
+|[CMaNGOS wiki bots](https://github.com/cmangos/issues/wiki/Guide-to-use-Playerbot)           |Bot commands on the CMaNGOS wiki|
 
-## Discord
+## Server and Clients
 
--   [Single Player Project](https://discord.gg/TpxqWWT) (main link)
--   Mangosbots (no permalink)
--   [CMaNGOS](https://discord.gg/Dgzerzb) (generally no SPP support provided here)
+|Link|Description|
+|---|---|
+|[Github SPP Classics Collection](https://github.com/celguar/spp-classics-cmangos/releases)   |Server download|
+|[HeidiSQL](https://www.heidisql.com/)                                                        |Tool for viewing and editing the server databases|
+|[Wowdl.net](https://wowdl.net/)                                                              |Client downloads|
+|[HermesProxy](https://github.com/celguar/HermesProxy/releases/tag/3.7)                       |Required for classic client|
 
 ## Addons
 
--   [Curseforge](https://www.curseforge.com/wow/addons?filter-game-version=2020709689%3A6904&filter-sort=4)
--   [MarsAdmin](https://cdn.discordapp.com/attachments/645260188256829451/739113895960248330/MarsAdmin.zip) (GM-control)
--   [Mangosbot-addon](https://github.com/celguar/mangosbot-addon) (bot-control)
+|Link|Description|
+|---|---|
+|[Curseforge](https://www.curseforge.com/wow/addons?filter-game-version=2020709689%3A6904&filter-sort=4)|General addon website|
+|[MarsAdmin](https://cdn.discordapp.com/attachments/645260188256829451/739113895960248330/MarsAdmin.zip)|GM-control|
+|[Mangosbot-addon](https://github.com/celguar/mangosbot-addon)                                     |For bot control|
 
-## Tools
+## Community and support
 
--   [HeidiSQL](https://www.heidisql.com/) (tool for viewing and editing the database)
+|Discord|Description
+|---|---|
+|[Single Player Project](https://discord.gg/TpxqWWT)                                   |Main server for SPP, ask for help here|
+|Mangosbots                                                                            |Ask in SPP server for link|
+|[CMaNGOS](https://discord.gg/Dgzerzb)                                                 |For server core, generally no SPP support provided here|
