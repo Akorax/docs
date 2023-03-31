@@ -1,8 +1,8 @@
 # Client setup
+First, download the client version you want to use. (See [links](_pages/Links))
 
 ## Vanilla (1.12 to 3.3.5)
 
-- Download the correct client version from a website (See [links](_pages/Links))
 - Edit the contents realmlist.wtf to match the server external IP (or web-address if on)
 
 From our example in ([Remote setup](_pages/Setup3)) the following would apply:
@@ -12,4 +12,6 @@ From our example in ([Remote setup](_pages/Setup3)) the following would apply:
 
 ## Classic (1.14)
 
-Download, config and go. Something hermes text.
+Using the classic client on a non-classic server requires a data translation tool called HermesProxy (link in the links section).
+Installation of this tool isn't all that difficult but until I can write up a good instruction on how to, I recommend asking for help in the SPP discord server.
+In my opinion playing on the classic client is a better experience than vanilla.
