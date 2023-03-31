@@ -13,5 +13,4 @@ From our example in ([Remote setup](_pages/Setup3)) the following would apply:
 ## Classic (1.14)
 
 Using the classic client on a non-classic server requires a data translation tool called HermesProxy (See [links](_pages/Links)).
-Installation of this tool isn't all that difficult but until I can write up a good instruction on how to, I recommend asking for help in the SPP discord server.
-In my opinion playing on the classic client is a better experience than vanilla.
+Installation of this tool isn't all that difficult but until I can write up a good instruction I recommend following the instructions on the download page and asking for help in the SPP discord server if required. In my opinion playing on the classic client is a better experience than vanilla.
