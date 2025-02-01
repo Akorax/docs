@@ -4,7 +4,7 @@ Remote setup means you run server on an entirely different network than the one 
 ![NetworkMap](../_media/networkmap.png "Network Map")
 
 ## Router
-The client on LAN 1 need to find the server on LAN 2. To make this happen you need to *forward* two dataports. This means you have to manually tell your **router** where to send incoming connections. Port **3724** and **8085** will need to be *forwarded* to the **local IP-adress** of the server. Optionally if you have a webserver you will also have to forward port **80**. (see image below)
+The client on LAN 1 need to find the server on LAN 2. To make this happen you need to *forward* two dataports. This means you have to manually tell your **router** where to send incoming connections. Port **3724** and **8085** will need to be *forwarded* to the **local IP-adress** of the server. Optionally if you have a webserver you will also have to forward port **80** and possibly block port **443** if you get error 500 connection refused. (see image below)
 
 ![Port_forwarding](../_media/portforwarding.png)
 
@@ -19,7 +19,7 @@ The server also need to know the external IP to which clients are connecting to.
 
 ![Login](../_media/HeidiSQL01.PNG)
 
-4. Find the realmlist table and edit the data (note that you need to edit the correct field in the correct tab).
+4. Find the realmlist table and edit the data **(N.B. that you need to edit the correct field in the correct tab).**
 
 ![Edit Database](../_media/HeidiSQL02.png)
 
