@@ -16,8 +16,9 @@
 |[Github SPP Classics Collection](https://github.com/celguar/spp-classics-cmangos/releases)   |Server download|
 |[HeidiSQL](https://www.heidisql.com/)                                                        |Tool for viewing and editing the server databases|
 |[Wowdl.net (archive.org)](https://web.archive.org/web/20240803132623/https://www.wowdl.net/files/clients#vanilla) |Client downloads|
-|[Mega mirror 1](https://mega.nz/file/uYxBWAYb#4bV1pqFl2-zXRS7063GqzAnt53oe5jTcmlVce9CtKPc) |1.12 Client|
-|[HermesProxy](https://github.com/celguar/HermesProxy/releases/tag/3.7)                       |Required for classic client|
+|[Mega mirror 1](https://mega.nz/file/uYxBWAYb#4bV1pqFl2-zXRS7063GqzAnt53oe5jTcmlVce9CtKPc) |Vanilla 1.12 Client|
+|[Mega mirror 2](https://mega.nz/file/FnNiRIrY#--ZpEmYv3GejTwauMc2pwR4jzdnS_zT9T0ZgLyTYEjg) |Classic 1.14 Client|
+|[HermesProxy](https://github.com/celguar/HermesProxy/releases/latest)                      |Required for classic client|
 
 ## Addons
 
