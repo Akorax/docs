@@ -17,6 +17,7 @@
 **A3:** Could be multiple reasons, come to discord with a detailed description of the issue if you still haven't resolved it.  
 ## Error Messages
 Below is a list of WoW-errors. So far, I've only encountered the connection error.
+
 | Error         | Description    | Solution |
 |---------------|------------|-------------|
 | BLZ51903003 | Network issue    | Try resetting your internet connection  |
@@ -24,5 +25,6 @@ Below is a list of WoW-errors. So far, I've only encountered the connection erro
 | WOW51900118 | World server not available | Check server avaibility, possible maintenance time  |
 | WOW51900309 | Realm server issue | Try restarting your client  |
 | WoW Error 132 | Client crash   | Check that your addons and graphic drivers are up to date |
+
  ## Error Reporting
 To be added...
