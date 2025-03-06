@@ -33,4 +33,11 @@ Below is a list of WoW-errors. So far, I've only encountered the connection erro
 | WoW Error 132 | Client crash   | Check that your addons and graphic drivers are up to date |
 
  ## Error Reporting
-To be added...
+> Discord is the main support channel right now.
+### Discord
+When asking for help on the SPP Discord server, try to describe your issue in detail with enough context.
+```
+Issue: I can't connect to my server
+Description: I get thrown back to the realm selection list when I try to join a realm.
+Context: I'm running the server on my computer/local machine and I'm using the vanilla client (1.12).
+```
