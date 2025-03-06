@@ -16,7 +16,7 @@
 **A2:** Check your router/firewall settings. Certain ports must be forwarded.  
 **A3:** Could be multiple reasons, come to discord with a detailed description of the issue if you still haven't resolved it.  
 
-**5:** I get sent back to realmlist when I select a realm to play on.
+**5:** I get sent back to realmlist when I select a realm to play on.   
 **Q:** In your `database`, double check your `realmd` table settings. Try using your LAN IP-address instead of `127.0.0.1`.
 
 ## Error Messages
