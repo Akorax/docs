@@ -11,11 +11,9 @@
 	
 </details>
 <details open>
-<summary><b>Troubleshooting</b></summary>
+<summary><b>Maintenance</b></summary>
 	
-- [Common errors](_pages/T_CommonErrors)
-- [Error reporting](_pages/T_ErrorReporting)
-- [Error messages](_pages/T_ErrorMessages)
+- [Troubleshooting](_pages/Troubleshooting)
 	
 </details>
 <details open>
