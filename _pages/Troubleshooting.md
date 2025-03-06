@@ -18,7 +18,10 @@
 **A3:** Could be multiple reasons, come to discord with a detailed description of the issue if you still haven't resolved it.  
 
 **5:** I get sent back to realmlist when I select a realm to play on.\
-**Q:** In your `database`, double check your `realmd` table settings. Try using your LAN IP-address instead of `127.0.0.1`.
+**A:** In your `database`, double check your `realmd` table settings. Try using your LAN IP-address instead of `127.0.0.1`.
+
+**6:** Webserver website return internal server error 500 (Windows)\
+**A:** Possible file path conflict related to MS OneDrive. Try moving your server folder C:\games for example. 
 
 ## Error Messages
 Below is a list of WoW-errors. So far, I've only encountered the connection error.
