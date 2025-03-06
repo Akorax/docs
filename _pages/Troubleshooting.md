@@ -26,7 +26,7 @@ Below is a list of WoW-errors. So far, I've only encountered the connection erro
 | Error         | Description    | Solution |
 |---------------|------------|-------------|
 | BLZ51903003 | Network issue    | Try resetting your internet connection  |
-| WOW51900314 | Connection Error | In your `database`, double check your `realmd` table settings. Have you added the IP-address or DNS-server name correctly.  |
+| WOW51900314 | Connection Error | If you're using Classic client, double check that IP-address in hermesproxy.config is correct.  |
 | WOW51900118 | World server not available | Check server avaibility, possible maintenance time  |
 | WOW51900309 | Realm server issue | Try restarting your client  |
 | WOW51900319 | Connection reset by peer | Try disabling Microsoft Defender Network Extensions or check for any security program or function that might interfere with neworking or your WoW-client. (Some Mac-users have had to update their OS) |
