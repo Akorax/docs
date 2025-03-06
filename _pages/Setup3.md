@@ -19,8 +19,9 @@ The server also need to know the external IP to which clients are connecting to.
 
 ![Login](../_media/HeidiSQL01.PNG)
 
-4. Find the realmlist table and edit the data **(N.B. that you need to edit the correct field in the correct tab).**
+4. Find the realmlist table and edit the data
    - If you use a DynDNS you just put that address in the IP-address field instead.
+> You need to edit the correct field (address) in the correct tab (data).
 
 ![Edit Database](../_media/HeidiSQL02.png)
 
