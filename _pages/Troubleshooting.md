@@ -4,7 +4,7 @@
 
 > After a change in the database you will have to restart your server for the changes to take effect.
 
-**1:** My server suddenly drop connection!  
+**1:** My server suddenly drop connection!   
 **A:** If you have a remote or LAN-configured server. Have you checked so that the server computer isn't locked (ie. screensaver activated).
 
 **2:** I'm stuck at `logging in to game server`!  
