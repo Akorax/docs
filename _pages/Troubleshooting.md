@@ -24,6 +24,7 @@ Below is a list of WoW-errors. So far, I've only encountered the connection erro
 | WOW51900314 | Connection Error | [CommonError](.._pages/T_CommonErrors)  |
 | WOW51900118 | World server not available | Check server avaibility, possible maintenance time  |
 | WOW51900309 | Realm server issue | Try restarting your client  |
+| WOW51900319 | ??? | ??? |
 | WoW Error 132 | Client crash   | Check that your addons and graphic drivers are up to date |
 
  ## Error Reporting
